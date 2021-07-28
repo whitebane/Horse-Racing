@@ -1,0 +1,10 @@
+C:\Users\Alikaan\source\repos\Horse Racing\Horse Racing\bin\Debug\Horse Racing.exe.config
+C:\Users\Alikaan\source\repos\Horse Racing\Horse Racing\bin\Debug\Horse Racing.exe
+C:\Users\Alikaan\source\repos\Horse Racing\Horse Racing\bin\Debug\Horse Racing.pdb
+C:\Users\Alikaan\source\repos\Horse Racing\Horse Racing\obj\Debug\Horse Racing.csproj.AssemblyReference.cache
+C:\Users\Alikaan\source\repos\Horse Racing\Horse Racing\obj\Debug\Horse_Racing.Form1.resources
+C:\Users\Alikaan\source\repos\Horse Racing\Horse Racing\obj\Debug\Horse_Racing.Properties.Resources.resources
+C:\Users\Alikaan\source\repos\Horse Racing\Horse Racing\obj\Debug\Horse Racing.csproj.GenerateResource.cache
+C:\Users\Alikaan\source\repos\Horse Racing\Horse Racing\obj\Debug\Horse Racing.csproj.CoreCompileInputs.cache
+C:\Users\Alikaan\source\repos\Horse Racing\Horse Racing\obj\Debug\Horse Racing.exe
+C:\Users\Alikaan\source\repos\Horse Racing\Horse Racing\obj\Debug\Horse Racing.pdb
